@@ -86,7 +86,6 @@ def delete_contact():
         print(f"{i}: {contact}")
     to_delete = get_int_range("Which do you want to delete: ", 0, (len(contacts) - 1) )
     # contacts.remove()  NO, this removes a specific VALUE from list
-    deleted = contacts.pop(to_delete)
     print(f"Delted {deleted}.")
 
 '''
