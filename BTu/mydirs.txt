@@ -1,0 +1,24 @@
+ Volume in drive Z is FacStaff Data
+ Volume Serial Number is D0F7-3E2D
+
+ Directory of Z:\AIST2120\BTu
+
+10/13/2020  11:41 AM    <DIR>          .
+10/13/2020  11:41 AM    <DIR>          ..
+08/25/2020  11:33 AM               560 818a.py
+08/25/2020  12:36 PM               235 825_getnum.py
+08/25/2020  12:28 PM               547 825_stringy.py
+08/25/2020  12:13 PM             1,290 825_whilst.py
+09/08/2020  12:46 PM             3,428 contacts_a_908.py
+09/29/2020  12:46 PM             5,566 contacts_c_929.py
+09/01/2020  12:44 PM               693 dice_funcs_901.py
+10/06/2020  12:46 PM             1,291 files_1006.py
+09/01/2020  12:13 PM             2,413 funcs_901.py
+09/01/2020  12:26 PM               414 math_funcs.py
+10/13/2020  11:41 AM                 0 mydirs.txt
+10/06/2020  12:46 PM                69 newfile.txt
+09/22/2020  12:43 PM             2,575 regex_922.py
+10/13/2020  11:31 AM                 0 stdio_1013.py
+09/01/2020  12:24 PM    <DIR>          __pycache__
+              14 File(s)         19,081 bytes
+               3 Dir(s)   2,781,818,880 bytes free

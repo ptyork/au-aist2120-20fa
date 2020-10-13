@@ -1,0 +1,5 @@
+Hello
+Hello
+This is from stdin.readline()
+
+This is from input()
