@@ -1,0 +1,7 @@
+input.txt
+mydirs.txt
+myothertextfile.txt
+myscripts.txt
+mytextfile.txt
+newfile.txt
+textfiles.txt
