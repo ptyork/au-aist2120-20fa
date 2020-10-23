@@ -23,6 +23,7 @@ log.basicConfig(
 
 log.debug('in imports_1022 - ' + __name__)
 
+# METHOD 3, IMPORT JUST THE NEEDED FUNCTIONS/VARIABLES FROM THE MODULE
 from module_1022 import say_hi
 from module_1022 import content as hstring
 
