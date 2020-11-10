@@ -1,0 +1,19 @@
+{
+    "Age": 48,
+    "IsAwesome": true,
+    "Kids": [
+        {
+            "Age": 13,
+            "Name": "Kylie"
+        },
+        {
+            "Age": 8,
+            "Name": "Keaton"
+        }
+    ],
+    "Name": "Paul",
+    "Spouse": {
+        "Age": 29,
+        "Name": "Meredith"
+    }
+}
