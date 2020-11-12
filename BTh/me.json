@@ -1,0 +1,18 @@
+{
+    "Name": "Paul",
+    "Age": 48,
+    "Spouse": {
+        "Name": "Meredith",
+        "Age": 29
+    },
+    "Kids": [
+        {
+            "Name": "Kylie",
+            "Age": 13
+        },
+        {
+            "Name": "Keaton",
+            "Age": 9
+        }
+    ]
+}
