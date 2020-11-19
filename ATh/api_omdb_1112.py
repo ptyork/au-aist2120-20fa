@@ -14,7 +14,7 @@ with open('\\apikeys.json') as fi:
 key = apikeys["OMDB"]
 
 resp = req.get(
-    "http://www.omdbapi.com/",
+    "https://www.omdbapi.com/",
     params={
         "apikey": key,
         "t": movie_name
@@ -23,7 +23,7 @@ resp = req.get(
 
 movie = json.loads(resp.text)
 
-# pp(movie)
+pp(movie)
 
 title = movie["Title"]
 rated = movie["Rated"]
